@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQ8l/TSGmSex4kNI1M9CYP9tnYIp8lrjkPC/huj+PyiT+uPZ6RAsJ5Fmv6PxhFC9MNqHpZoY8XL4a0RD9kTvqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuznetsov_d\\source\\repos\\CustomParser\\CustomParserLibrary\\CustomParserLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuznetsov_d\\.nuget\\packages\\antlr4.runtime.standard\\4.12.0\\antlr4.runtime.standard.4.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

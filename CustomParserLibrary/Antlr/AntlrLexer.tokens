@@ -1,0 +1,21 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+T__5=6
+T__6=7
+OP_LOGIC=8
+OP_COMPARE=9
+OP_MATH=10
+NUM=11
+VAR=12
+ID=13
+WS=14
+'IF'=1
+'THEN'=2
+'END_IF'=3
+'ELSE'=4
+'ELSE IF'=5
+':='=6
+';'=7

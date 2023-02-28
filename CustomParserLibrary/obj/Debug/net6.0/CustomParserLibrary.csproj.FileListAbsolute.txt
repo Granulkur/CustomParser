@@ -1,0 +1,12 @@
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\bin\Debug\net6.0\CustomParserLibrary.deps.json
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\bin\Debug\net6.0\CustomParserLibrary.dll
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\bin\Debug\net6.0\CustomParserLibrary.pdb
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.csproj.AssemblyReference.cache
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.AssemblyInfoInputs.cache
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.AssemblyInfo.cs
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.dll
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\refint\CustomParserLibrary.dll
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\CustomParserLibrary.pdb
+C:\Users\kuznetsov_d\source\repos\CustomParser\CustomParserLibrary\obj\Debug\net6.0\ref\CustomParserLibrary.dll

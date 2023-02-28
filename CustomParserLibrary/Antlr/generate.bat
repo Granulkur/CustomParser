@@ -1,0 +1,1 @@
+java -jar antlr-4.12.0-complete.jar -Dlanguage=CSharp Antlr.g4 -no-listener -visitor

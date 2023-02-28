@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomParserLibrary", "CustomParserLibrary\CustomParserLibrary.csproj", "{769A0040-0AFD-4F57-AA9E-BF9379674603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomParserUI", "CustomParserUI\CustomParserUI.csproj", "{7FDAF5A0-F678-4418-A3C2-31CC9FFFEA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769A0040-0AFD-4F57-AA9E-BF9379674603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769A0040-0AFD-4F57-AA9E-BF9379674603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769A0040-0AFD-4F57-AA9E-BF9379674603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769A0040-0AFD-4F57-AA9E-BF9379674603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDAF5A0-F678-4418-A3C2-31CC9FFFEA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDAF5A0-F678-4418-A3C2-31CC9FFFEA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDAF5A0-F678-4418-A3C2-31CC9FFFEA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDAF5A0-F678-4418-A3C2-31CC9FFFEA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B7A398-6ECE-4135-8F31-E485BD797665}
+	EndGlobalSection
+EndGlobal
